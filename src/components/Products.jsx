@@ -1,5 +1,5 @@
 import React from 'react';
-import ProductCard from './Products'; // Бул файл src/components/ProductCard.jsx экенин текшериңиз!
+import ProductCard from './Products'; 
 
 const productsData = [
   {
